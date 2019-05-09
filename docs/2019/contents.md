@@ -8,4 +8,4 @@ briefDescription: "loren epusom"
 
 ### tags: "PowerShell"
 
-[Read More](/yvrkarthik/testpagerepo/contents/docs/2019/05/mayweek1.md)
+[Read More](/repos/yvrkarthik/testpagerepo/contents/docs/2019/05/mayweek1.md)
